@@ -6,6 +6,6 @@
 MAYASTROUN: A Multilanguage Handwriting Database. ICFHR 2012: 308-312
 % -------------------------------------------------------------------------
 % Authors:  Sourour Njah, Badreddine Ben Nouma, Hala Bezine, Adel M. Alimi
-% For problems with the code, please contact the authors:   
+% For problems with the code, please contact the authors: 
 % To:  badreddine.ben.nouma@emt.inrs.ca 
 % -------------------------------------------------------------------------
