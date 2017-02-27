@@ -1,7 +1,7 @@
 # chiffres-manuscrits----handwritten numbers
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-% This Database was presented at ICFHR 2012: 308-312
+% This Dataset was presented at ICFHR 2012: 308-312
 
 % Please, if you use it in your work, please cite the paper where the database was first presented:
 MAYASTROUN: A Multilanguage Handwriting Database. ICFHR 2012: 308-312
